@@ -1,0 +1,51 @@
+body {
+  background-color: #D47677;
+
+}
+.sign {
+  display: block;
+    position: fixed;
+    text-align: center;
+    background-color: rgb(240, 240, 240);
+    box-sizing: border-box;
+    margin-left: 32%;
+    margin-right: 200px;
+    margin-top: 209px;
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    margin-bottom: 209px;
+    border-width: 0px 1px 1px;
+    border-style: solid;
+    border-color: black;
+    border-image: initial;
+    font-family: arial;
+}
+
+input[type=text], input[type=password] {
+    width: 300px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-family: arial;
+}
+button {
+    background-color: #9DD8D4;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 25%;
+}
+h3 {
+  color: #7E7E7E;
+  font-family: arial;
+}
+.check {
+  text-align: left;
+  font-size: 12px;
+}
